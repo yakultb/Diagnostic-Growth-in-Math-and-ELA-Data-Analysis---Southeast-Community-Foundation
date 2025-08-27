@@ -1,0 +1,2 @@
+# Diagnostic-Growth-in-Math-and-ELA-Data-Analysis---Southeast-Community-Foundation
+Analyzed data from the Southeast Community Foundation’s 2022 Summer Tutoring Pilot, which supported 52 students in Huntington Park and South Gate. Using Power BI, our team evaluated program outcomes to measure impact, identify educational gaps, and highlight the effectiveness of community-driven tutoring initiatives.
